@@ -13,12 +13,15 @@ Abner_health/
 ├── index.html          # Main website file
 ├── vercel.json         # Vercel deployment configuration
 ├── images/             # Logo and service images
-│   ├── 551702834_1281172327118736_3900065226629414296_n.jpg
-│   ├── 551889170_772420222291016_5377369041312008962_n.jpg
-│   ├── 552630647_1356816312563114_4416391529598099973_n.jpg
-│   ├── 552665625_1324992739214636_8824066322279515079_n.jpg
-│   ├── 553087725_1889434511985447_7303884946825117226_n.jpg
-│   └── 553231848_1280417696746620_5443054716007752993_n.jpg
+│   ├── ABNER_logo.svg
+│   ├── sibling-dna-test.jpg
+│   ├── Non_Invasive_Pregnancy_Test.jpg
+│   ├── weightloss-dna-test.jpg
+│   ├── covid-19-test.jpg
+│   ├── influenza-test.jpg
+│   ├── Parental_DNA_Test.jpg
+│   ├── hair_drug_testing.png
+│   └── nail_drug_testingpng.png
 └── README.md           # This file
 ```
 
