@@ -1063,6 +1063,24 @@
         </section>
     </main>
 
+    <!-- Patient Portal Popup -->
+    <div id="patientPortalPopup" class="popup-overlay">
+        <div class="popup-content">
+            <button class="popup-close" onclick="closePopup('patientPortalPopup')">&times;</button>
+            <div class="popup-icon">🔒</div>
+            <h3>Patient Portal</h3>
+            <p>Our secure patient portal is coming soon! This feature will allow you to:</p>
+            <ul style="text-align: left; margin: 1rem 0; color: #172c74;">
+                <li>View your test results securely</li>
+                <li>Schedule appointments online</li>
+                <li>Access your testing history</li>
+                <li>Update your personal information</li>
+            </ul>
+            <p style="color: #4e8d1d; font-weight: 600;">Stay tuned for updates!</p>
+            <button class="popup-button" onclick="closePopup('patientPortalPopup')">Got it</button>
+        </div>
+    </div>
+
     <script>
         // Popup Functions
         function showChatbotPopup() {
